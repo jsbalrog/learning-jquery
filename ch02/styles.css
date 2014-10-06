@@ -1,0 +1,33 @@
+body {
+  font-family: arial;
+}
+
+.horizontal {
+  float: left;
+  list-style: none;
+  margin: 10px;
+}
+
+.sub-level {
+  background-color: #DDD;
+}
+
+a {
+  color: #00c;
+}
+
+a.mailto {
+  background: url(images/mail.png) no-repeat right top;
+  padding-right: 18px;
+}
+
+a.pdflink {
+  background: url(image/pdf.png) no-repeat right top;
+  padding-right: 18px;
+}
+
+a.henrylink {
+  background-color: #fff;
+  padding: 2px
+  border: 1px solid #000;
+}
